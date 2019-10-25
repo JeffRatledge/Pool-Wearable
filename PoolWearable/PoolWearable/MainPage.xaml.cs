@@ -12,6 +12,7 @@ namespace PoolWearable
         public MainPage()
         {
             InitializeComponent();
+            var image = new Image { Source = "pool.jpg" };
         }
     }
 }
